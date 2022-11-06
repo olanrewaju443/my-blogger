@@ -2,6 +2,7 @@
 This is an api for a blogging app
 
 ---
+https://altschoolafrica.com/schools/engineering
 
 ## Requirements
 1. User should be able to signup
@@ -21,6 +22,7 @@ This is an api for a blogging app
 ---
 ## Base URL
 -https://github.com/olanrewaju443/my-blogger
+-https://myblog.cyclic.app/
 
 
 ## Models
